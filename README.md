@@ -1,5 +1,6 @@
 # Apex Benchmark - Micro-benchmarking for Salesforce Apex
 
+![CI workflow](https://github.com/ipavlic/apex-benchmark/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/ipavlic/apex-benchmark/graph/badge.svg?token=XY8FJFJLJG)](https://codecov.io/gh/ipavlic/apex-benchmark)
 
 A lightweight micro-benchmarking framework for measuring Apex code performance in Salesforce.
