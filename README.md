@@ -1,8 +1,11 @@
-# Harness - Micro-benchmarking for Salesforce Apex
+# Apex Benchmark - Micro-benchmarking for Salesforce Apex
+
+[![codecov](https://codecov.io/gh/ipavlic/apex-benchmark/graph/badge.svg?token=XY8FJFJLJG)](https://codecov.io/gh/ipavlic/apex-benchmark)
 
 A lightweight micro-benchmarking framework for measuring Apex code performance in Salesforce.
 
-**Architecture:**
+**Provides:**
+
 - `Benchmark` - Abstract base class you extend to define benchmarks
 - `Harness` - Runner that executes benchmarks and collects metrics
 
